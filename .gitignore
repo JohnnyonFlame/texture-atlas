@@ -1,0 +1,14 @@
+build/**
+.vscode/**
+imgui.ini
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+cppcheck.cppcheck
+data/**
+!data/
+!data/shaders
+!data/sponza
+!data/sponza/*
+!data/shaders/**
